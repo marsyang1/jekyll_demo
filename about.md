@@ -4,16 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi. I'm a 4th year Computer Science student currently studying at Dalhousie University. My hobbies include video games, sports (where are my Dallas Stars fans at??), and of course programming, which will be the main focus of this blog. I created this so I could write about the interesting challenges and projects that I come across during my learning experience. This blog will likely be a combination of side projects + programming problem commentary and whatever else I might feel like writing about. You can expect the following topics on my blog:
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-- Programming commentary on interesting short problems
-- Side projects
-- Game modding/programming
-- Maybe some sports-related content/rants :)
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jglovier" %} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find my GitHub at {% include icon-github.html username="muffinlightning" %}.
-
-
-This blog is powered by Jekyll. You can find the source code for Jekyll at
+You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)

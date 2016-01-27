@@ -1,4 +1,2 @@
-# muffinlightning.github.io
-Programming Blog
-
-Check me out @ http://muffinlightning.github.io/
+# jekyll_demo
+jekyll_demo test
